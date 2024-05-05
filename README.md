@@ -1,0 +1,2 @@
+# MeowHosts
+（咕咕咕）Meow Hosts是一款通过更改Hosts解决国内网络无法正常访问GitHub以及其他部分海外网站的AndroidAPP
